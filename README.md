@@ -22,7 +22,7 @@ The AGIent chatbot is an intelligent assistant built using Flask and OpenAI's GP
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/adityabrahmankar9/langagent-chatbot.git
+1. Clone the repository: git clone https://github.com/adityabrahmankar/langagent-chatbot.git
 
 2. Navigate to the project directory: cd
 
